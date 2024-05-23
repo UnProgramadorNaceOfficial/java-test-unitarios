@@ -1,3 +1,5 @@
+![Descripción alternativa](src/main/resources/static/imagen.png)
+
 # Java Test Unitarios
 Muchas gracias por estar aquí, si te gusta mi contenido y son de gran utilidad para ti por favor ayudame dando tu valioso like al video y suscribiéndote al canal, ya que esto es de gran ayuda para mí y me motiva a seguir creando contenido de gran utilidad para ti.
 
